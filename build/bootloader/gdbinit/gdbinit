@@ -1,0 +1,2 @@
+source C:/Dev/bom/build/bootloader/gdbinit/symbols
+source C:/Dev/bom/build/bootloader/gdbinit/connect
